@@ -1,4 +1,4 @@
-## Página web para veterinaria fictivia Perrone Vet
+## Página web para veterinaria ficticia Perrone Vet
 
 Luego haré el backend, usando Java, Hibernate y LTE ADMIN.
 
