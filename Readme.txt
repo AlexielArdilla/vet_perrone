@@ -1,6 +1,9 @@
-Thanks for downloading this template!
+## Página web para veterinaria fictivia Perrone Vet
 
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Luego haré el backend, usando Java, Hibernate y LTE ADMIN.
+
+Pero eso lo subiré a otros server que lo soporte.
+
+Esto es solo una muestra del diseño.
+
+Saludos!!!
